@@ -1,11 +1,13 @@
-const connection = require('./config/connection');
-const inquirer = require('inquirer');
-const cTable = require('console.table');
-const chalk = require('chalk');
-const figlet = require('figlet');
-const validate = require('./javascript/validate');
+const inquirer = require("inquirer");
+let cTable = require("console.table");
+const view = require("./utils/view");
+const update = require("./utils/update");
+const remove = require("./utils/remove");
+const add = require("./utils/add");
+const db = require("./utils/connection");
+const chalk = require("chalk");
+const { Pool } = require("mysql2");
 
-// Database Connect and Starter Title
 connection.connect((error) => {
   if (error) throw error;
   console.log(chalk.yellow.bold(`====================================================================================`));
