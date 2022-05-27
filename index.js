@@ -10,7 +10,11 @@ const { Pool } = require("mysql2");
 
 db.connect((err) => {
   if (err) throw err;
-  console.log(chalk.magenta('Employee Tracker'));
+  console.log(chalk.yellow.bold(`====================================================================================`));
+  console.log(chalk.magenta('=======Employee Tracker======='));
+  console.log(`                                                          ` + chalk.greenBright.bold('Created By: Hugo Alvarado'));
+  console.log(chalk.yellow.bold(`====================================================================================`));
+
   init();
 });
 
