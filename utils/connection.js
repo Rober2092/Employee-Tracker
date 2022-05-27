@@ -6,7 +6,7 @@ const mysql = require("mysql2");
     port: 3306,
     user: "root",
     password: "HugoAl@1991",
-    database: "employees",
+    database: "empTracker",
   });
 
 
