@@ -3,8 +3,8 @@
  <img src= "./images/IMG_5986.PNG" />
 
 # video 
- video link https://www.youtube.com/watch?v=fTPp_yEa4eo&t=143s
-[![my first video ](https://img.youtube.com/vi/EkUx7TUQBRE/0.jpg)](https://www.youtube.com/watch?v=t-GeHUMApzE&t=68s "my first video")
+ video link https://www.youtube.com/watch?v=t-GeHUMApzE&t=128s
+[![my first video ](https://img.youtube.com/vi/EkUx7TUQBRE/0.jpg)](https://www.youtube.com/watch?v=t-GeHUMApzE&t=128s"my first video")
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
  <p align="center">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/mySQL-blue"  />
     <img src="https://img.shields.io/badge/inquirer-green" />
 </p>
-## Description
+Description
 🔍 A node.js application that uses user input from inquirer to populate an employee tracker database displaying members of a company.
 
 
