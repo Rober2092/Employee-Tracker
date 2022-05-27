@@ -3,9 +3,8 @@
  <img src= "./images/IMG_5986.PNG" />
 
 # video 
- video link https://www.youtube.com/watch?v=t-GeHUMApzE&t=128s
-[![my first video ](https://img.youtube.com/vi/EkUx7TUQBRE/0.jpg)](https://www.youtube.com/watch?v=t-GeHUMApzE&t=128s"my first video")
-
+  video link https://www.youtube.com/watch?v=t-GeHUMApzE&t=55s
+[![my first video ](https://img.youtube.com/vi/EkUx7TUQBRE/0.jpg)](https://www.youtube.com/watch?v=t-GeHUMApzE&t=55s "my first video")
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
  <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
