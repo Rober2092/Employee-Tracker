@@ -1,6 +1,7 @@
 # Employee-Tracker
 # screen shot 
- <img src= "./images/IMG_5986.PNG" />
+ <img src= "./images/IMG_6102.PNG" />
+ <img src= "./images/IMG_6103.PNG" />
 
 # video 
   video link https://www.youtube.com/watch?v=t-GeHUMApzE&t=55s
